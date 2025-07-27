@@ -1,0 +1,13 @@
+streamlit
+langgraph
+langchain
+langchain-groq
+langchain-core
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+pandas
+numpy
+python-dotenv
+pydantic
